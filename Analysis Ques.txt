@@ -1,0 +1,50 @@
+🔍 General Analysis
+1. Which locations have the most restaurants?
+2. Which cuisines are most popular across all restaurants?
+3. Which are the top-rated restaurants in major cities?
+4. Is there a correlation between cost and rating (i.e., is expensive food better rated)?
+5. Do restaurants with online delivery have better ratings?
+
+📍 City & Location-Based Analysis
+6. Which cities have the widest variety of cuisines?
+7. Which localities in major cities have top-rated restaurants?
+8. Are there cities where low-cost restaurants still have high ratings?
+9. Which cities have the most votes per restaurant (i.e., highest customer engagement)?
+**10. Which cities have the highest proportion of fine-dining restaurants?
+
+🍽 Cuisine-Based Insights
+11. Which cuisines have the highest average ratings?
+12. Which cuisines are commonly found in low-rated restaurants (rating < 3)?
+13. How do cuisine preferences vary between Bangalore, Delhi, and Mumbai?
+14. How does average cost vary across different cuisines?
+15. Which cuisines receive the most votes on average?
+
+🏷 Restaurant Type Analysis
+**16. Which restaurant types (Casual Dining, Fine Dining, Quick Bites, etc.) are most popular by city?
+**17. Do Fine Dining restaurants consistently get better ratings than Quick Bites across cities?
+**18. Which restaurant type offers the best cost-efficiency (i.e., high rating at low cost)?
+
+💰 Cost vs Quality
+19. What’s the relationship between price range and average rating? (merged with Q4)
+20. Which cities offer the best-rated food at the lowest average cost?
+21. Does a higher price range correlate with a higher number of votes or better ratings?
+22. Which restaurants are best value for money (high rating, low cost)?
+
+📦 Delivery & Booking Services
+23. Do restaurants offering online delivery receive more votes on average? (merged with Q5)
+24. Does table booking availability affect ratings or votes?
+25. Which cities have the highest percentage of online delivery restaurants?
+**26. Which restaurant types rarely offer online delivery?
+
+⭐ Ratings & Votes
+27. Which restaurants have low ratings but high votes (controversial/famous)?
+**28. What’s the distribution of ratings across restaurant types or cities?
+29. Which cities have the most consistent ratings (i.e., low variance)?
+30. Which restaurants are underrated (high votes but rating < 3.5)?
+
+📊 Advanced Analytical Questions
+31. What features (cost, delivery, type, votes, etc.) correlate most with high rating? (Use heatmap or correlation matrix)
+32. Can we cluster restaurants based on cost and rating to identify market segments? (Use K-Means or scatter plots)
+33. Do restaurants in tourist cities (e.g., Udaipur, Jaipur) perform better in ratings than metro cities?
+34. If time data is available, how do ratings vary across years or seasons?
+35. Can we build a recommendation system using cuisine, city, and rating?

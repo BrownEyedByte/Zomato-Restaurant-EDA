@@ -127,7 +127,6 @@ This project showcases the power of **EDA combined with machine learning** to so
 © 2025 Mansi Varshney. All rights reserved.  
 This project is for educational and demonstrative purposes only.  
 Unauthorized copying or distribution of any part of this project is strictly prohibited.
-"""
 ---
 
 ⭐ *If you liked this project, don't forget to give it a star on GitHub!*
